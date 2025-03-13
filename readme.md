@@ -22,7 +22,7 @@ For restaurant managers, **QueryBite** offers powerful tools for managing restau
 
 ## Installation
 
-To get started with **QueryBite**, you need to install the database and set up the environment. Follow the instructions in the [Database Installation Guide](Database_Installation_Guide.md) to configure the database and get the system up and running.
+To get started with **QueryBite**, you need to install the database and set up the environment. Follow the instructions in the [Database Installation Guide](Database_Instillation_Guide.md) to configure the database and get the system up and running.
 
 ### Prerequisites
 
