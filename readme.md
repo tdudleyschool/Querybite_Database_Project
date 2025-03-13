@@ -154,12 +154,12 @@ The **QueryBite** project includes a variety of features designed to provide a s
 
 The **QueryBite** project was created by the following individuals:
 
-Tafari Dudley (tdudleyschool),
-Huda Jaffara (JaffaraH),
-Karon Neblett  (NebbHo1of1),
-Jacquan Curtis, 
-Essence Murray, 
-Avin Keith (Avin2303), 
-Kai (Ilela-Kai)
+- Tafari Dudley (tdudleyschool),
+- Huda Jaffara (JaffaraH),
+- Karon Neblett  (NebbHo1of1),
+- Jacquan Curtis, 
+- Essence Murray, 
+- Avin Keith (Avin2303), 
+- Kai (Ilela-Kai)
 
 Special thanks to all contributors for their dedication to building and enhancing the **QueryBite** project!
